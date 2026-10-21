@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+wandb/
+mlruns/
+outputs/
+checkpoints/
+*.safetensors
+*.bin
+*.gguf
+data/raw/
+data/*.parquet
+.ipynb_checkpoints/
+.DS_Store
